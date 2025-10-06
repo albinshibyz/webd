@@ -1,3 +1,3 @@
 # WEBD Project
 
-***Collection of Simple Website Designs. ***
+***Collection of Simple Website Designs.***
